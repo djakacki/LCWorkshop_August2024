@@ -232,7 +232,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/LCWorkshop_August2024/main/Russ_DToC/russ_women.xml?person_annotation_20240821114931650",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-08-21T15:49:31.650Z",
-	"dcterms:modified": "2024-08-21T15:49:31.650Z",
+	"dcterms:modified": "2024-08-21T15:50:58.630Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -264,7 +264,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q131333",
+		"@id": "http://viaf.org/viaf/8325159477606527990006/",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -295,7 +295,7 @@
 				write it) "But, Doctor, doesn’t that violate Finagle's Constant?" I staggered to
 				the bathroom, released floods of tea, and returned to the kitchen to talk. It
 				was professional talk. It left me grey-faced and with such concentration that I
-				began to develop a headache. We talked about <persName key="George Eliot" ref="http://www.wikidata.org/entity/Q131333" xml:id="persName_y1c_hn5_31c">
+				began to develop a headache. We talked about <persName key="Evans, Mary Ann" ref="http://viaf.org/viaf/8325159477606527990006/" xml:id="persName_y1c_hn5_31c" role="art">
 					Mary Ann Evans's </persName>loss of faith, about <persName key="Emily Brontë" ref="http://www.wikidata.org/entity/Q80137" role="aut" xml:id="persName_z1c_hn5_31c">Emily Brontë</persName>'s isolation, about
 				<persName key="Charlotte Brontë" ref="http://www.wikidata.org/entity/Q127332" cert="high" role="aut" type="real" xml:id="persName_abc_hn5_31c">Charlotte Brontë</persName>'s
 				blinding cloud, about the split in <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" role="aut" xml:id="persName_bbc_hn5_31c">Virginia Woolf</persName>'s head and the split
